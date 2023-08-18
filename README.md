@@ -1,0 +1,1 @@
+This is an application that displays a range of prices for specified categories of products. People can ask about the prices of products in the category and get feedback by getting the prices of the products they asked for. 
